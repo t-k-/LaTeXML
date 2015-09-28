@@ -17,3 +17,13 @@ See the LICENSE file for copyright and licensing information.
 
 bruce.miller@nist.gov
 
+========tk note==========
+dependency
+====
+
+sudo apt-get install   \	  
+libarchive-zip-perl libfile-which-perl libimage-size-perl  \	  
+libio-string-perl libjson-xs-perl libparse-recdescent-perl \	  
+liburi-perl libuuid-tiny-perl libwww-perl                  \	 
+libxml2 libxml-libxml-perl libxslt1.1 libxml-libxslt-perl  \	  
+texlive-latex-base imagemagick libimage-magick-perl
